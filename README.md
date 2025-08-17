@@ -1,13 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Abdallah Alwarawreh</h1>
-<h3 align="center">A passionate, slightly silly, and endlessly curious full-stack developer 🚀</h3>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdallah-Alwarawreh&theme=onedark" alt="GitHub Trophies" />
-</p>
-
----
+<h1 align="center">Yo, I'm Abdallah Alwarawreh</h1>
 
 ### 😎 About Me
 - 🧠 I break stuff just to fix it better.
@@ -61,27 +52,4 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
 </p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/AbdallahD3v"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://www.linkedin.com/in/abdallahw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@HexiumDev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-Alwarawreh&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallah-Alwarawreh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
